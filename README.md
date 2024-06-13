@@ -12,7 +12,11 @@ HTML, SCSS, and little JavaScript.
 
 - [Link to the preview](https://boytrend0108.github.io/bung_olufsen)
 
-- [Link to the mockup](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212).
+- [Link to the mockup](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212)
+
+- <a href="https://boytrend0108.github.io/bung_olufsen" target="_blank">Link to the preview</a>
+
+- <a href="https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212" target="_blank">Link to the mockup</a>
 
 ### Features
 
@@ -30,12 +34,12 @@ HTML, SCSS, and little JavaScript.
 
 ### Getting Started
 
-1.[Clone the repository](https://github.com/boytrend0108/bung_olufsen.git).
+1.Clone the repository: [`https://github.com/boytrend0108/bung_olufsen.git`].
 
 2.Install the required dependencies:
 
 ```bash
-  npm install`
+  npm install
 ```
 
 3.Start the development server:
