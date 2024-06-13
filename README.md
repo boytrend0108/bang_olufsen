@@ -42,4 +42,6 @@ This project is licensed under the MIT License.
 
 For any questions or feedback, please feel free to contact me through the contact form on the website or by email at [boytrend@gmail.com].
 
+![Image alt text](./src/images/for-github/bang-olufsen.png)
+
 ##Happy coding!
