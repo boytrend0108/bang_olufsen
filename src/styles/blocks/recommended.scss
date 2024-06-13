@@ -1,0 +1,11 @@
+.recommended {
+  padding-top: 64px;
+
+  @include on-tablet {
+    padding-top: 120px;
+  }
+
+  &__content {
+    @include grid-columns;
+  }
+}
