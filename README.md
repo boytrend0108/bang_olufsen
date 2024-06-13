@@ -10,11 +10,11 @@ HTML, SCSS, and little JavaScript.
 
 ## Demo
 
-Link to the preview: [`https://boytrend0108.github.io/bung_olufsen/`].
+- [Link to the preview](https://boytrend0108.github.io/bung_olufsen)
 
-Link to the mockup: [`https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212`].
+- [Link to the mockup](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212).
 
-###Features
+### Features
 
 - Responsive design optimized for all devices
 - Clean and modern design with a focus on user experience
@@ -30,7 +30,7 @@ Link to the mockup: [`https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-N
 
 ### Getting Started
 
-1.Clone the repository: [`https://github.com/boytrend0108/bung_olufsen.git`].
+1.[Clone the repository](https://github.com/boytrend0108/bung_olufsen.git).
 
 2.Install the required dependencies:
 
@@ -56,6 +56,6 @@ This project is licensed under the MIT License.
 
 ## Authors
 
-- [@octokatherine](hhttps://github.com/boytrend0108)
+- [boytrend](https://github.com/boytrend0108)
 
 ##Happy coding!
