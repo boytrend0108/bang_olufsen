@@ -14,10 +14,6 @@ HTML, SCSS, and little JavaScript.
 
 - [Link to the mockup](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212)
 
-- <a href="https://boytrend0108.github.io/bung_olufsen" target="_blank">Link to the preview</a>
-
-- <a href="https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212" target="_blank">Link to the mockup</a>
-
 ### Features
 
 - Responsive design optimized for all devices
