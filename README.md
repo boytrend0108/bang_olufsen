@@ -19,10 +19,15 @@ This repository contains the source code for my personal portfolio website, buil
 ### Getting Started
 
 1.Clone the repository: `https://github.com/boytrend0108/bung_olufsen.git`.
+
 2.Install the required dependencies: `npm install`.
+
 3.Start the development server: `npm start`.
+
 4.Open `http://localhost:1234` in your browser.
+
 5.Link to the mockup: `https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212`.
+
 6.Link to the preview: `https://boytrend0108.github.io/bung_olufsen/`.
 
 ###Contributing
