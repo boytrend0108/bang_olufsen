@@ -13,12 +13,12 @@ This repository contains the source code for my personal portfolio website, buil
 ### Technologies
 
 - HTML: Structure and content of the website
-- SCSS: Styling and design of the website(BEM)
+- SCSS: Styling and design of the website.(BEM)
 - JavaScript: Interactivity and dynamic features
 
 ### Getting Started
 
-1.Clone the repository: `https://github.com/boytrend0108/bung_olufsen.git`.
+1.Clone the repository: [`https://github.com/boytrend0108/bung_olufsen.git`].
 
 2.Install the required dependencies: `npm install`.
 
@@ -26,9 +26,9 @@ This repository contains the source code for my personal portfolio website, buil
 
 4.Open `http://localhost:1234` in your browser.
 
-5.Link to the mockup: `https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212`.
+5.Link to the mockup: [`https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212`].
 
-6.Link to the preview: `https://boytrend0108.github.io/bung_olufsen/`.
+6.Link to the preview: [`https://boytrend0108.github.io/bung_olufsen/`].
 
 ###Contributing
 
