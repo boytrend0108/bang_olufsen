@@ -1,7 +1,7 @@
 {
-  "name": "gulp-boilerplate",
+  "name": "bang-olufsen",
   "version": "1.0.0",
-  "description": "Frontend boilerplate based on gulp",
+  "description": "HTML, SCSS, JS",
   "scripts": {
     "init": "mate-scripts init",
     "start": "parcel ./src/index.html --open",
