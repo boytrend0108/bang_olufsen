@@ -10,7 +10,7 @@ HTML, SCSS, and little JavaScript.
 
 ## Demo
 
-- [Link to the preview](https://boytrend0108.github.io/bung_olufsen)
+- [Link to the preview](https://boytrend0108.github.io/bang_olufsen/)
 
 - [Link to the mockup](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212)
 

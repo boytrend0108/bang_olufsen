@@ -123,9 +123,10 @@
 }
 
 @mixin auto-fill {
-  &:-webkit-autofill,
-  &:-webkit-autofill:hover,
-  &:-webkit-autofill:focus {
+  /* stylelint-disable-next-line selector-no-vendor-prefix */
+  &:-webkit-auto-fill,
+  &:-webkit-auto-fill:hover,
+  &:-webkit-auto-fill:focus {
     transition: all $trasition-duration;
     border: 1px solid $color-btn;
     -webkit-text-fill-color: $color-btn;
